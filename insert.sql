@@ -84,3 +84,4 @@ insert into titles (emp_no, title, from_date, to_date) values(12, 'Publicity deg
 insert into titles (emp_no, title, from_date, to_date) values(13, 'Publicity degree', '2015-1-1', '2020-1-1');
 insert into titles (emp_no, title, from_date, to_date) values(14, 'Computer degree', '1995-1-1', '2000-1-1');
 insert into titles (emp_no, title, from_date, to_date) values(15, 'Computer degree', '2005-1-1', '2010-1-1');
+
